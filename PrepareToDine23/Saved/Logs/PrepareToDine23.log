@@ -1242,3 +1242,1042 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.01.04-10.15.10:594][293]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.21ms to complete.
 [2023.01.04-10.15.10:594][293]LogFileHelpers: Loading map 'TestMapOscar' took 0.291
 [2023.01.04-10.15.14:637][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.01.04-10.16.24:310][361]Cmd: DELETE
+[2023.01.04-10.16.24:310][361]Cmd: ACTOR DELETE
+[2023.01.04-10.16.24:313][361]LogEditorActor: Deleted Actor: BP_Gun_Parent_C
+[2023.01.04-10.16.24:362][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.01.04-10.16.24:363][361]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2023.01.04-10.16.34:977][961]Cmd: SELECT NONE
+[2023.01.04-10.16.46:747][643]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.BP_Saucer_Projectile_C
+[2023.01.04-10.16.46:747][643]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.BP_Saucer_Projectile_C
+[2023.01.04-10.16.46:749][643]LogActorFactory: Actor Factory spawned Blueprint /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.BP_Saucer_Projectile as actor: BP_Saucer_Projectile_C /Game/Levels/TestMapOscar.TestMapOscar:PersistentLevel.BP_Saucer_Projectile_C_0
+[2023.01.04-10.16.46:750][643]LogActorFactory: Actor Factory spawned Blueprint /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.BP_Saucer_Projectile as actor: BP_Saucer_Projectile_C /Game/Levels/TestMapOscar.TestMapOscar:PersistentLevel.BP_Saucer_Projectile_C_0
+[2023.01.04-10.16.47:197][668]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.BP_Saucer_Projectile_C
+[2023.01.04-10.16.47:197][668]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.BP_Saucer_Projectile_C
+[2023.01.04-10.16.47:200][668]LogActorFactory: Actor Factory spawned Blueprint /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.BP_Saucer_Projectile as actor: BP_Saucer_Projectile_C /Game/Levels/TestMapOscar.TestMapOscar:PersistentLevel.BP_Saucer_Projectile_C_UAID_80FA5B808D89925901_2036737839
+[2023.01.04-10.16.47:201][668]LogActorFactory: Actor Factory spawned Blueprint /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.BP_Saucer_Projectile as actor: BP_Saucer_Projectile_C /Game/Levels/TestMapOscar.TestMapOscar:PersistentLevel.BP_Saucer_Projectile_C_UAID_80FA5B808D89925901_2036737839
+[2023.01.04-10.16.49:035][772]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.04-10.16.49:043][772]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.04-10.16.49:043][772]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.04-10.16.49:043][772]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.04-10.16.49:043][772]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.01.04-10.16.49:043][772]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.01.04-10.16.49:043][772]LogWorldPartition: Display: GetPartitionedActors took 60 us
+[2023.01.04-10.16.49:043][772]LogWorldPartition: Display: GenerateStreaming took 364 us
+[2023.01.04-10.16.49:045][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-10.16.49:045][772]PIE: New page: PIE session: TestMapOscar (4 Jan 2023, 10:16:49)
+[2023.01.04-10.16.49:072][772]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMapOscar
+[2023.01.04-10.16.49:078][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005875s)
+[2023.01.04-10.16.49:078][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMapOscar.TestMapOscar to /Game/Levels/UEDPIE_0_TestMapOscar.TestMapOscar (0.005966s)
+[2023.01.04-10.16.49:078][772]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-10.16.49:078][772]LogAIModule: Creating AISystem for world TestMapOscar
+[2023.01.04-10.16.49:078][772]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.04-10.16.49:078][772]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.01.04-10.16.49:080][772]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.01.04-10.16.49:080][772]LogPlayLevel: PIE: World Init took: (0.002220s)
+[2023.01.04-10.16.49:128][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.01.04-10.16.49:129][772]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.01.04-10.16.49:129][772]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-10.16.49:129][772]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-10.16.49:129][772]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-10.16.49:129][772]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-10.16.49:129][772]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-10.16.49:129][772]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.04-10.16.49:129][772]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-10.16.49:129][772]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-10.16.49:129][772]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-10.16.49:129][772]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-10.16.49:129][772]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-10.16.49:131][772]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.04-10.16.49:158][772]LogAudioMixer: Display: Using Audio Hardware Device Speakers (GameDAC Game)
+[2023.01.04-10.16.49:158][772]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-10.16.49:158][772]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-10.16.49:158][772]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-10.16.49:159][772]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.01.04-10.16.49:159][772]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=3
+[2023.01.04-10.16.49:161][772]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.01.04-10.16.49:161][772]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.01.04-10.16.49:161][772]LogInit: FAudioDevice initialized.
+[2023.01.04-10.16.49:161][772]LogAudio: Display: Audio Device (ID: 3) registered with world 'TestMapOscar'.
+[2023.01.04-10.16.49:174][772]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.01.04-10.16.49:176][772]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMapOscar.TestMapOscar up for play (max tick rate 60) at 2023.01.04-10.16.49
+[2023.01.04-10.16.49:177][772]LogWorld: Bringing up level for play took: 0.002680
+[2023.01.04-10.16.49:178][772]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.01.04-10.16.49:180][772]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2023.01.04-10.16.49:180][772]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.04-10.16.49:180][772]PIE: Server logged in
+[2023.01.04-10.16.49:181][772]PIE: Play in editor total start time 0.14 seconds.
+[2023.01.04-10.16.50:392][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-10.16.50:392][837]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMapOscar
+[2023.01.04-10.16.50:392][837]LogWorld: UWorld::CleanupWorld for TestMapOscar, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-10.16.50:393][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-10.16.50:406][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-10.16.50:412][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-10.16.50:461][837]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.04-10.16.50:461][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.01.04-10.16.50:463][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.01.04-10.16.50:466][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-10.16.50:470][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.01.04-10.16.50:510][838]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.01.04-10.16.51:344][886]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.04-10.16.51:354][886]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.04-10.16.51:354][886]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.04-10.16.51:354][886]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.04-10.16.51:354][886]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.01.04-10.16.51:354][886]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.01.04-10.16.51:354][886]LogWorldPartition: Display: GetPartitionedActors took 60 us
+[2023.01.04-10.16.51:354][886]LogWorldPartition: Display: GenerateStreaming took 406 us
+[2023.01.04-10.16.51:354][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-10.16.51:354][886]PIE: New page: PIE session: TestMapOscar (4 Jan 2023, 10:16:51)
+[2023.01.04-10.16.51:391][886]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMapOscar
+[2023.01.04-10.16.51:397][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005732s)
+[2023.01.04-10.16.51:397][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMapOscar.TestMapOscar to /Game/Levels/UEDPIE_0_TestMapOscar.TestMapOscar (0.005830s)
+[2023.01.04-10.16.51:397][886]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-10.16.51:397][886]LogAIModule: Creating AISystem for world TestMapOscar
+[2023.01.04-10.16.51:398][886]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.04-10.16.51:398][886]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.01.04-10.16.51:399][886]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.01.04-10.16.51:399][886]LogPlayLevel: PIE: World Init took: (0.002191s)
+[2023.01.04-10.16.51:447][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.01.04-10.16.51:449][886]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.01.04-10.16.51:449][886]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-10.16.51:449][886]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-10.16.51:449][886]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-10.16.51:449][886]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-10.16.51:449][886]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-10.16.51:449][886]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.04-10.16.51:449][886]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-10.16.51:449][886]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-10.16.51:449][886]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-10.16.51:449][886]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-10.16.51:449][886]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-10.16.51:451][886]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.04-10.16.51:476][886]LogAudioMixer: Display: Using Audio Hardware Device Speakers (GameDAC Game)
+[2023.01.04-10.16.51:477][886]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-10.16.51:477][886]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-10.16.51:477][886]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-10.16.51:478][886]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.01.04-10.16.51:478][886]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=4
+[2023.01.04-10.16.51:479][886]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.01.04-10.16.51:479][886]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.01.04-10.16.51:480][886]LogInit: FAudioDevice initialized.
+[2023.01.04-10.16.51:480][886]LogAudio: Display: Audio Device (ID: 4) registered with world 'TestMapOscar'.
+[2023.01.04-10.16.51:492][886]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.01.04-10.16.51:495][886]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMapOscar.TestMapOscar up for play (max tick rate 60) at 2023.01.04-10.16.51
+[2023.01.04-10.16.51:495][886]LogWorld: Bringing up level for play took: 0.002701
+[2023.01.04-10.16.51:497][886]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.01.04-10.16.51:498][886]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2023.01.04-10.16.51:498][886]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.04-10.16.51:499][886]PIE: Server logged in
+[2023.01.04-10.16.51:499][886]PIE: Play in editor total start time 0.148 seconds.
+[2023.01.04-10.16.52:311][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-10.16.52:311][927]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMapOscar
+[2023.01.04-10.16.52:311][927]LogWorld: UWorld::CleanupWorld for TestMapOscar, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-10.16.52:312][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-10.16.52:326][927]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-10.16.52:331][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-10.16.52:379][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-10.16.52:380][927]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.01.04-10.16.52:381][927]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.01.04-10.16.52:388][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.01.04-10.16.52:414][928]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.01.04-10.16.54:795][ 64]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.04-10.16.54:801][ 64]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.04-10.16.54:802][ 64]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.04-10.16.54:802][ 64]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.04-10.16.54:802][ 64]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.01.04-10.16.54:802][ 64]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.01.04-10.16.54:802][ 64]LogWorldPartition: Display: GetPartitionedActors took 47 us
+[2023.01.04-10.16.54:802][ 64]LogWorldPartition: Display: GenerateStreaming took 297 us
+[2023.01.04-10.16.54:802][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-10.16.54:802][ 64]PIE: New page: PIE session: TestMapOscar (4 Jan 2023, 10:16:54)
+[2023.01.04-10.16.54:802][ 64]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMapOscar
+[2023.01.04-10.16.54:807][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005068s)
+[2023.01.04-10.16.54:807][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMapOscar.TestMapOscar to /Game/Levels/UEDPIE_0_TestMapOscar.TestMapOscar (0.005125s)
+[2023.01.04-10.16.54:807][ 64]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-10.16.54:808][ 64]LogAIModule: Creating AISystem for world TestMapOscar
+[2023.01.04-10.16.54:808][ 64]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.04-10.16.54:808][ 64]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.01.04-10.16.54:809][ 64]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.01.04-10.16.54:809][ 64]LogPlayLevel: PIE: World Init took: (0.002102s)
+[2023.01.04-10.16.54:859][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.01.04-10.16.54:860][ 64]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.01.04-10.16.54:860][ 64]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-10.16.54:860][ 64]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-10.16.54:860][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-10.16.54:860][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-10.16.54:860][ 64]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-10.16.54:861][ 64]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.04-10.16.54:861][ 64]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-10.16.54:861][ 64]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-10.16.54:861][ 64]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-10.16.54:861][ 64]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-10.16.54:861][ 64]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-10.16.54:863][ 64]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.04-10.16.54:886][ 64]LogAudioMixer: Display: Using Audio Hardware Device Speakers (GameDAC Game)
+[2023.01.04-10.16.54:886][ 64]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-10.16.54:886][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-10.16.54:886][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-10.16.54:888][ 64]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.01.04-10.16.54:888][ 64]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=5
+[2023.01.04-10.16.54:890][ 64]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.01.04-10.16.54:890][ 64]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.01.04-10.16.54:890][ 64]LogInit: FAudioDevice initialized.
+[2023.01.04-10.16.54:890][ 64]LogAudio: Display: Audio Device (ID: 5) registered with world 'TestMapOscar'.
+[2023.01.04-10.16.54:903][ 64]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.01.04-10.16.54:906][ 64]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMapOscar.TestMapOscar up for play (max tick rate 60) at 2023.01.04-10.16.54
+[2023.01.04-10.16.54:906][ 64]LogWorld: Bringing up level for play took: 0.002523
+[2023.01.04-10.16.54:908][ 64]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.01.04-10.16.54:909][ 64]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2023.01.04-10.16.54:909][ 64]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.04-10.16.54:910][ 64]PIE: Server logged in
+[2023.01.04-10.16.54:910][ 64]PIE: Play in editor total start time 0.11 seconds.
+[2023.01.04-10.16.58:361][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-10.16.58:361][261]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMapOscar
+[2023.01.04-10.16.58:362][261]LogWorld: UWorld::CleanupWorld for TestMapOscar, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-10.16.58:362][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-10.16.58:379][261]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-10.16.58:385][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-10.16.58:430][261]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.04-10.16.58:430][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.01.04-10.16.58:432][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.01.04-10.16.58:435][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-10.16.58:438][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.01.04-10.16.58:480][262]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.01.04-10.17.42:718][832]BlueprintLog: New page: Compile BP_Saucer_Projectile
+[2023.01.04-10.17.42:791][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.01.04-10.17.43:181][848]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile
+[2023.01.04-10.17.43:182][848]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_Saucer_Projectile8102EF324331203C28875695A4EFEB1F.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.uasset'
+[2023.01.04-10.17.43:195][848]AssetCheck: New page: Asset Save: BP_Saucer_Projectile
+[2023.01.04-10.17.43:196][848]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.BP_Saucer_Projectile
+[2023.01.04-10.18.07:500][296]LogSlate: Took 0.001636 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.01.04-10.18.17:741][908]BlueprintLog: New page: Compile BP_EnemyBase
+[2023.01.04-10.18.17:814][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.01.04-10.18.18:226][928]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Enemys/BP_EnemyBase
+[2023.01.04-10.18.18:226][928]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_EnemyBase91BCA0AB42DDDDAAFB1B7993C4B9854A.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Enemys/BP_EnemyBase.uasset'
+[2023.01.04-10.18.18:238][928]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2023.01.04-10.18.18:238][928]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Enemys/BP_EnemyBase.BP_EnemyBase
+[2023.01.04-10.18.42:502][381]BlueprintLog: New page: Compile BP_EnemyBase
+[2023.01.04-10.18.42:572][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.01.04-10.18.42:934][398]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Enemys/BP_EnemyBase
+[2023.01.04-10.18.42:935][398]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_EnemyBaseDC2BB8444EFEB3A9388DA4AFF272CCB8.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Enemys/BP_EnemyBase.uasset'
+[2023.01.04-10.18.42:947][398]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2023.01.04-10.18.42:947][398]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Enemys/BP_EnemyBase.BP_EnemyBase
+[2023.01.04-10.18.44:869][503]Cmd: SELECT NONE
+[2023.01.04-10.18.49:812][790]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.04-10.18.49:821][790]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.04-10.18.49:821][790]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.04-10.18.49:821][790]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.04-10.18.49:821][790]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.01.04-10.18.49:821][790]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.01.04-10.18.49:821][790]LogWorldPartition: Display: GetPartitionedActors took 62 us
+[2023.01.04-10.18.49:821][790]LogWorldPartition: Display: GenerateStreaming took 439 us
+[2023.01.04-10.18.49:821][790]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-10.18.49:821][790]PIE: New page: PIE session: TestMapOscar (4 Jan 2023, 10:18:49)
+[2023.01.04-10.18.49:821][790]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMapOscar
+[2023.01.04-10.18.49:828][790]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006914s)
+[2023.01.04-10.18.49:828][790]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMapOscar.TestMapOscar to /Game/Levels/UEDPIE_0_TestMapOscar.TestMapOscar (0.007001s)
+[2023.01.04-10.18.49:829][790]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-10.18.49:829][790]LogAIModule: Creating AISystem for world TestMapOscar
+[2023.01.04-10.18.49:829][790]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.04-10.18.49:829][790]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.01.04-10.18.49:831][790]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.01.04-10.18.49:831][790]LogPlayLevel: PIE: World Init took: (0.002592s)
+[2023.01.04-10.18.49:882][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.01.04-10.18.49:883][790]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.01.04-10.18.49:883][790]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-10.18.49:883][790]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-10.18.49:884][790]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-10.18.49:884][790]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-10.18.49:884][790]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-10.18.49:884][790]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.04-10.18.49:884][790]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-10.18.49:884][790]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-10.18.49:884][790]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-10.18.49:884][790]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-10.18.49:884][790]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-10.18.49:886][790]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.04-10.18.49:913][790]LogAudioMixer: Display: Using Audio Hardware Device Speakers (GameDAC Game)
+[2023.01.04-10.18.49:913][790]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-10.18.49:913][790]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-10.18.49:913][790]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-10.18.49:915][790]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.01.04-10.18.49:915][790]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=6
+[2023.01.04-10.18.49:916][790]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.01.04-10.18.49:916][790]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.01.04-10.18.49:916][790]LogInit: FAudioDevice initialized.
+[2023.01.04-10.18.49:916][790]LogAudio: Display: Audio Device (ID: 6) registered with world 'TestMapOscar'.
+[2023.01.04-10.18.49:924][790]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.01.04-10.18.49:926][790]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMapOscar.TestMapOscar up for play (max tick rate 60) at 2023.01.04-10.18.49
+[2023.01.04-10.18.49:926][790]LogWorld: Bringing up level for play took: 0.002481
+[2023.01.04-10.18.49:928][790]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.01.04-10.18.49:929][790]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2023.01.04-10.18.49:929][790]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.04-10.18.49:930][790]PIE: Server logged in
+[2023.01.04-10.18.49:930][790]PIE: Play in editor total start time 0.111 seconds.
+[2023.01.04-10.18.51:372][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-10.18.51:372][869]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMapOscar
+[2023.01.04-10.18.51:372][869]LogWorld: UWorld::CleanupWorld for TestMapOscar, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-10.18.51:373][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-10.18.51:385][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-10.18.51:391][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-10.18.51:436][869]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.04-10.18.51:436][869]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.01.04-10.18.51:438][869]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.01.04-10.18.51:441][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-10.18.51:444][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.01.04-10.18.51:486][870]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.01.04-10.18.55:312][ 80]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Scripting/Blueprints/Weapons/BP_FlyingSaucer.BP_FlyingSaucer
+[2023.01.04-10.18.55:313][ 80]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-10.18.55:824][ 80]LogViewport: Scene viewport resized to 1189x703, mode Windowed.
+[2023.01.04-10.19.05:095][631]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Scripting/Blueprints/Weapons/BP_Gun_Parent.BP_Gun_Parent
+[2023.01.04-10.19.05:095][631]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-10.19.36:798][460]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.04-10.19.36:799][460]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_FlyingSaucer_C_100 has parent /Game/Scripting/Blueprints/Weapons/BP_Gun_Parent.SKEL_BP_Gun_Parent_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.04-10.19.40:064][647]BlueprintLog: New page: Compile BP_FlyingSaucer
+[2023.01.04-10.19.40:162][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.01.04-10.19.40:460][657]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Weapons/BP_FlyingSaucer
+[2023.01.04-10.19.40:461][657]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_FlyingSaucer0E8CFB3B4F264B58128E239EA1CC56B0.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Weapons/BP_FlyingSaucer.uasset'
+[2023.01.04-10.19.40:473][657]AssetCheck: New page: Asset Save: BP_FlyingSaucer
+[2023.01.04-10.19.40:473][657]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Weapons/BP_FlyingSaucer.BP_FlyingSaucer
+[2023.01.04-10.19.41:957][735]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.04-10.19.41:964][735]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.04-10.19.41:964][735]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.04-10.19.41:964][735]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.04-10.19.41:964][735]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.01.04-10.19.41:964][735]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.01.04-10.19.41:964][735]LogWorldPartition: Display: GetPartitionedActors took 57 us
+[2023.01.04-10.19.41:964][735]LogWorldPartition: Display: GenerateStreaming took 373 us
+[2023.01.04-10.19.41:964][735]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-10.19.41:964][735]PIE: New page: PIE session: TestMapOscar (4 Jan 2023, 10:19:41)
+[2023.01.04-10.19.41:964][735]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMapOscar
+[2023.01.04-10.19.41:971][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006479s)
+[2023.01.04-10.19.41:971][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMapOscar.TestMapOscar to /Game/Levels/UEDPIE_0_TestMapOscar.TestMapOscar (0.006579s)
+[2023.01.04-10.19.41:971][735]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-10.19.41:972][735]LogAIModule: Creating AISystem for world TestMapOscar
+[2023.01.04-10.19.41:972][735]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.04-10.19.41:972][735]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.01.04-10.19.41:973][735]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.01.04-10.19.41:973][735]LogPlayLevel: PIE: World Init took: (0.002339s)
+[2023.01.04-10.19.42:039][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.01.04-10.19.42:040][735]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.01.04-10.19.42:040][735]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-10.19.42:040][735]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-10.19.42:040][735]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-10.19.42:040][735]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-10.19.42:040][735]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-10.19.42:040][735]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.04-10.19.42:040][735]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-10.19.42:040][735]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-10.19.42:041][735]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-10.19.42:041][735]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-10.19.42:041][735]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-10.19.42:043][735]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.04-10.19.42:067][735]LogAudioMixer: Display: Using Audio Hardware Device Speakers (GameDAC Game)
+[2023.01.04-10.19.42:068][735]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-10.19.42:068][735]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-10.19.42:068][735]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-10.19.42:069][735]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.01.04-10.19.42:069][735]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=7
+[2023.01.04-10.19.42:071][735]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.01.04-10.19.42:071][735]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.01.04-10.19.42:071][735]LogInit: FAudioDevice initialized.
+[2023.01.04-10.19.42:071][735]LogAudio: Display: Audio Device (ID: 7) registered with world 'TestMapOscar'.
+[2023.01.04-10.19.42:086][735]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.01.04-10.19.42:089][735]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMapOscar.TestMapOscar up for play (max tick rate 60) at 2023.01.04-10.19.42
+[2023.01.04-10.19.42:089][735]LogWorld: Bringing up level for play took: 0.002851
+[2023.01.04-10.19.42:091][735]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.01.04-10.19.42:093][735]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2023.01.04-10.19.42:093][735]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.04-10.19.42:093][735]PIE: Server logged in
+[2023.01.04-10.19.42:094][735]PIE: Play in editor total start time 0.131 seconds.
+[2023.01.04-10.19.43:621][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-10.19.43:621][818]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMapOscar
+[2023.01.04-10.19.43:621][818]LogWorld: UWorld::CleanupWorld for TestMapOscar, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-10.19.43:622][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-10.19.43:637][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-10.19.43:643][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-10.19.43:702][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-10.19.43:703][818]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.01.04-10.19.43:705][818]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.01.04-10.19.43:711][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.01.04-10.19.43:756][819]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.01.04-10.19.45:781][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Scripting/Blueprints/Weapons/BP_FlyingSaucer.BP_FlyingSaucer_C
+[2023.01.04-10.19.45:781][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Scripting/Blueprints/Weapons/BP_FlyingSaucer.BP_FlyingSaucer_C
+[2023.01.04-10.19.45:782][917]LogActorFactory: Actor Factory spawned Blueprint /Game/Scripting/Blueprints/Weapons/BP_FlyingSaucer.BP_FlyingSaucer as actor: BP_FlyingSaucer_C /Game/Levels/TestMapOscar.TestMapOscar:PersistentLevel.BP_FlyingSaucer_C_0
+[2023.01.04-10.19.45:784][917]LogActorFactory: Actor Factory spawned Blueprint /Game/Scripting/Blueprints/Weapons/BP_FlyingSaucer.BP_FlyingSaucer as actor: BP_FlyingSaucer_C /Game/Levels/TestMapOscar.TestMapOscar:PersistentLevel.BP_FlyingSaucer_C_0
+[2023.01.04-10.19.46:268][943]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Scripting/Blueprints/Weapons/BP_FlyingSaucer.BP_FlyingSaucer_C
+[2023.01.04-10.19.46:268][943]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Scripting/Blueprints/Weapons/BP_FlyingSaucer.BP_FlyingSaucer_C
+[2023.01.04-10.19.46:271][943]LogActorFactory: Actor Factory spawned Blueprint /Game/Scripting/Blueprints/Weapons/BP_FlyingSaucer.BP_FlyingSaucer as actor: BP_FlyingSaucer_C /Game/Levels/TestMapOscar.TestMapOscar:PersistentLevel.BP_FlyingSaucer_C_UAID_80FA5B808D89935901_1142066016
+[2023.01.04-10.19.46:272][943]LogActorFactory: Actor Factory spawned Blueprint /Game/Scripting/Blueprints/Weapons/BP_FlyingSaucer.BP_FlyingSaucer as actor: BP_FlyingSaucer_C /Game/Levels/TestMapOscar.TestMapOscar:PersistentLevel.BP_FlyingSaucer_C_UAID_80FA5B808D89935901_1142066016
+[2023.01.04-10.19.49:163][104]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.04-10.19.49:171][104]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.04-10.19.49:171][104]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.04-10.19.49:171][104]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.04-10.19.49:171][104]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.01.04-10.19.49:171][104]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.01.04-10.19.49:171][104]LogWorldPartition: Display: GetPartitionedActors took 54 us
+[2023.01.04-10.19.49:171][104]LogWorldPartition: Display: GenerateStreaming took 383 us
+[2023.01.04-10.19.49:178][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-10.19.49:178][104]PIE: New page: PIE session: TestMapOscar (4 Jan 2023, 10:19:49)
+[2023.01.04-10.19.49:178][104]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMapOscar
+[2023.01.04-10.19.49:184][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005881s)
+[2023.01.04-10.19.49:184][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMapOscar.TestMapOscar to /Game/Levels/UEDPIE_0_TestMapOscar.TestMapOscar (0.005945s)
+[2023.01.04-10.19.49:184][104]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-10.19.49:185][104]LogAIModule: Creating AISystem for world TestMapOscar
+[2023.01.04-10.19.49:186][104]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.04-10.19.49:186][104]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.01.04-10.19.49:187][104]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.01.04-10.19.49:187][104]LogPlayLevel: PIE: World Init took: (0.002760s)
+[2023.01.04-10.19.49:247][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.01.04-10.19.49:249][104]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.01.04-10.19.49:249][104]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-10.19.49:249][104]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-10.19.49:249][104]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-10.19.49:249][104]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-10.19.49:249][104]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-10.19.49:249][104]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.04-10.19.49:249][104]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-10.19.49:249][104]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-10.19.49:249][104]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-10.19.49:249][104]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-10.19.49:249][104]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-10.19.49:251][104]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.04-10.19.49:275][104]LogAudioMixer: Display: Using Audio Hardware Device Speakers (GameDAC Game)
+[2023.01.04-10.19.49:276][104]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-10.19.49:276][104]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-10.19.49:276][104]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-10.19.49:277][104]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.01.04-10.19.49:277][104]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=8
+[2023.01.04-10.19.49:278][104]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.01.04-10.19.49:278][104]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.01.04-10.19.49:278][104]LogInit: FAudioDevice initialized.
+[2023.01.04-10.19.49:278][104]LogAudio: Display: Audio Device (ID: 8) registered with world 'TestMapOscar'.
+[2023.01.04-10.19.49:290][104]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.01.04-10.19.49:292][104]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMapOscar.TestMapOscar up for play (max tick rate 60) at 2023.01.04-10.19.49
+[2023.01.04-10.19.49:292][104]LogWorld: Bringing up level for play took: 0.002533
+[2023.01.04-10.19.49:294][104]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.01.04-10.19.49:296][104]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2023.01.04-10.19.49:296][104]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.04-10.19.49:296][104]PIE: Server logged in
+[2023.01.04-10.19.49:297][104]PIE: Play in editor total start time 0.128 seconds.
+[2023.01.04-10.19.52:942][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-10.19.52:942][313]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMapOscar
+[2023.01.04-10.19.52:942][313]LogWorld: UWorld::CleanupWorld for TestMapOscar, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-10.19.52:943][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-10.19.52:956][313]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-10.19.52:961][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-10.19.53:017][313]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.04-10.19.53:017][313]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.01.04-10.19.53:019][313]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.01.04-10.19.53:021][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-10.19.53:024][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.01.04-10.19.53:063][314]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.01.04-10.19.58:214][615]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.04-10.20.02:173][845]BlueprintLog: New page: Compile BP_Gun_Parent
+[2023.01.04-10.20.02:304][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.01.04-10.20.02:602][853]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Weapons/BP_Gun_Parent
+[2023.01.04-10.20.02:603][853]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_Gun_Parent8123B78D4F1ADE23693C27B06CF9D847.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Weapons/BP_Gun_Parent.uasset'
+[2023.01.04-10.20.02:615][853]AssetCheck: New page: Asset Save: BP_Gun_Parent
+[2023.01.04-10.20.02:615][853]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Weapons/BP_Gun_Parent.BP_Gun_Parent
+[2023.01.04-10.20.03:696][918]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.04-10.20.03:705][918]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.04-10.20.03:705][918]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.04-10.20.03:705][918]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.04-10.20.03:705][918]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.01.04-10.20.03:705][918]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.01.04-10.20.03:705][918]LogWorldPartition: Display: GetPartitionedActors took 56 us
+[2023.01.04-10.20.03:705][918]LogWorldPartition: Display: GenerateStreaming took 368 us
+[2023.01.04-10.20.03:705][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-10.20.03:705][918]PIE: New page: PIE session: TestMapOscar (4 Jan 2023, 10:20:03)
+[2023.01.04-10.20.03:705][918]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMapOscar
+[2023.01.04-10.20.03:712][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006221s)
+[2023.01.04-10.20.03:712][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMapOscar.TestMapOscar to /Game/Levels/UEDPIE_0_TestMapOscar.TestMapOscar (0.006297s)
+[2023.01.04-10.20.03:712][918]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-10.20.03:712][918]LogAIModule: Creating AISystem for world TestMapOscar
+[2023.01.04-10.20.03:712][918]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.04-10.20.03:712][918]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.01.04-10.20.03:714][918]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.01.04-10.20.03:714][918]LogPlayLevel: PIE: World Init took: (0.002192s)
+[2023.01.04-10.20.03:776][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.01.04-10.20.03:777][918]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.01.04-10.20.03:777][918]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-10.20.03:777][918]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-10.20.03:777][918]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-10.20.03:777][918]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-10.20.03:777][918]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-10.20.03:777][918]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.04-10.20.03:777][918]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-10.20.03:777][918]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-10.20.03:778][918]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-10.20.03:778][918]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-10.20.03:778][918]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-10.20.03:780][918]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.04-10.20.03:804][918]LogAudioMixer: Display: Using Audio Hardware Device Speakers (GameDAC Game)
+[2023.01.04-10.20.03:804][918]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-10.20.03:804][918]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-10.20.03:804][918]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-10.20.03:805][918]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.01.04-10.20.03:805][918]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=9
+[2023.01.04-10.20.03:806][918]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.01.04-10.20.03:806][918]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.01.04-10.20.03:806][918]LogInit: FAudioDevice initialized.
+[2023.01.04-10.20.03:806][918]LogAudio: Display: Audio Device (ID: 9) registered with world 'TestMapOscar'.
+[2023.01.04-10.20.03:819][918]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.01.04-10.20.03:821][918]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMapOscar.TestMapOscar up for play (max tick rate 60) at 2023.01.04-10.20.03
+[2023.01.04-10.20.03:822][918]LogWorld: Bringing up level for play took: 0.002651
+[2023.01.04-10.20.03:823][918]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.01.04-10.20.03:825][918]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2023.01.04-10.20.03:825][918]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.04-10.20.03:825][918]PIE: Server logged in
+[2023.01.04-10.20.03:826][918]PIE: Play in editor total start time 0.123 seconds.
+[2023.01.04-10.20.06:751][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-10.20.06:751][ 83]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMapOscar
+[2023.01.04-10.20.06:751][ 83]LogWorld: UWorld::CleanupWorld for TestMapOscar, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-10.20.06:752][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-10.20.06:765][ 83]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-10.20.06:772][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-10.20.06:828][ 83]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.04-10.20.06:829][ 83]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.01.04-10.20.06:830][ 83]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.01.04-10.20.06:833][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-10.20.06:836][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.01.04-10.20.06:875][ 84]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.01.04-10.20.19:535][832]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.04-10.20.32:212][584]BlueprintLog: New page: Compile BP_FlyingSaucer
+[2023.01.04-10.20.32:311][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.01.04-10.20.32:711][599]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Weapons/BP_FlyingSaucer
+[2023.01.04-10.20.32:712][599]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_FlyingSaucer742E6B27421879EB183012BDE937F815.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Weapons/BP_FlyingSaucer.uasset'
+[2023.01.04-10.20.32:725][599]AssetCheck: New page: Asset Save: BP_FlyingSaucer
+[2023.01.04-10.20.32:725][599]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Weapons/BP_FlyingSaucer.BP_FlyingSaucer
+[2023.01.04-10.20.33:906][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.01.04-10.20.33:969][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.01.04-10.20.34:031][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.01.04-10.20.34:039][651]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMapOscar/2/P1/90V2XYEXK7FE3780YMLTEF
+[2023.01.04-10.20.34:039][651]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/90V2XYEXK7FE3780YMLTEF1DF926DF450F7521F7DC83B80F32DC1E.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/__ExternalActors__/Levels/TestMapOscar/2/P1/90V2XYEXK7FE3780YMLTEF.uasset'
+[2023.01.04-10.20.34:042][651]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMapOscar/9/70/WIA23X1Q34K971NSASYZ3J
+[2023.01.04-10.20.34:042][651]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/WIA23X1Q34K971NSASYZ3J3633B26149D926E1D67BD9A379C3F90A.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/__ExternalActors__/Levels/TestMapOscar/9/70/WIA23X1Q34K971NSASYZ3J.uasset'
+[2023.01.04-10.20.34:045][651]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMapOscar/A/KG/3WSBR1ISOV80T4T656W73H
+[2023.01.04-10.20.34:045][651]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/3WSBR1ISOV80T4T656W73H6E78298C409A2E2064172D8883D0AC9A.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/__ExternalActors__/Levels/TestMapOscar/A/KG/3WSBR1ISOV80T4T656W73H.uasset'
+[2023.01.04-10.20.34:058][651]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.04-10.20.34:058][651]LogContentValidation: Display: Validating BP_FlamethrowerProt_C /Game/Levels/TestMapOscar.TestMapOscar:PersistentLevel.BP_FlamethrowerProt_C_UAID_80FA5B808D89915901_1156054663
+[2023.01.04-10.20.34:058][651]LogContentValidation: Display: Validating BP_FlyingSaucer_C /Game/Levels/TestMapOscar.TestMapOscar:PersistentLevel.BP_FlyingSaucer_C_UAID_80FA5B808D89935901_1142066016
+[2023.01.04-10.20.34:058][651]LogContentValidation: Display: Validating BP_Saucer_Projectile_C /Game/Levels/TestMapOscar.TestMapOscar:PersistentLevel.BP_Saucer_Projectile_C_UAID_80FA5B808D89925901_2036737839
+[2023.01.04-10.20.35:285][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.01.04-10.20.36:111][760]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.04-10.20.36:120][760]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.04-10.20.36:120][760]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.04-10.20.36:120][760]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.04-10.20.36:120][760]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.01.04-10.20.36:120][760]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.01.04-10.20.36:120][760]LogWorldPartition: Display: GetPartitionedActors took 59 us
+[2023.01.04-10.20.36:120][760]LogWorldPartition: Display: GenerateStreaming took 391 us
+[2023.01.04-10.20.36:120][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-10.20.36:120][760]PIE: New page: PIE session: TestMapOscar (4 Jan 2023, 10:20:36)
+[2023.01.04-10.20.36:120][760]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMapOscar
+[2023.01.04-10.20.36:127][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006940s)
+[2023.01.04-10.20.36:127][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMapOscar.TestMapOscar to /Game/Levels/UEDPIE_0_TestMapOscar.TestMapOscar (0.007030s)
+[2023.01.04-10.20.36:128][760]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-10.20.36:128][760]LogAIModule: Creating AISystem for world TestMapOscar
+[2023.01.04-10.20.36:129][760]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.04-10.20.36:129][760]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.01.04-10.20.36:130][760]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.01.04-10.20.36:130][760]LogPlayLevel: PIE: World Init took: (0.002791s)
+[2023.01.04-10.20.36:193][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.01.04-10.20.36:194][760]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.01.04-10.20.36:194][760]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-10.20.36:194][760]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-10.20.36:194][760]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-10.20.36:194][760]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-10.20.36:194][760]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-10.20.36:194][760]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.04-10.20.36:194][760]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-10.20.36:194][760]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-10.20.36:194][760]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-10.20.36:194][760]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-10.20.36:194][760]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-10.20.36:196][760]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.04-10.20.36:222][760]LogAudioMixer: Display: Using Audio Hardware Device Speakers (GameDAC Game)
+[2023.01.04-10.20.36:222][760]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-10.20.36:222][760]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-10.20.36:222][760]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-10.20.36:224][760]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.01.04-10.20.36:224][760]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=10
+[2023.01.04-10.20.36:225][760]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.01.04-10.20.36:225][760]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.01.04-10.20.36:225][760]LogInit: FAudioDevice initialized.
+[2023.01.04-10.20.36:225][760]LogAudio: Display: Audio Device (ID: 10) registered with world 'TestMapOscar'.
+[2023.01.04-10.20.36:238][760]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.01.04-10.20.36:240][760]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMapOscar.TestMapOscar up for play (max tick rate 60) at 2023.01.04-10.20.36
+[2023.01.04-10.20.36:241][760]LogWorld: Bringing up level for play took: 0.002553
+[2023.01.04-10.20.36:242][760]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.01.04-10.20.36:244][760]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2023.01.04-10.20.36:244][760]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.04-10.20.36:244][760]PIE: Server logged in
+[2023.01.04-10.20.36:245][760]PIE: Play in editor total start time 0.126 seconds.
+[2023.01.04-10.20.57:131][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-10.20.57:131][955]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMapOscar
+[2023.01.04-10.20.57:131][955]LogWorld: UWorld::CleanupWorld for TestMapOscar, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-10.20.57:131][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-10.20.57:155][955]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-10.20.57:162][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-10.20.57:220][955]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.04-10.20.57:220][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.01.04-10.20.57:222][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.01.04-10.20.57:225][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-10.20.57:228][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.01.04-10.20.57:270][956]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.01.04-10.21.02:178][214]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Scripting/Blueprints/Enemys/BP_EnemyBase.BP_EnemyBase_C
+[2023.01.04-10.21.02:178][214]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Scripting/Blueprints/Enemys/BP_EnemyBase.BP_EnemyBase_C
+[2023.01.04-10.21.02:179][214]LogActorFactory: Actor Factory spawned Blueprint /Game/Scripting/Blueprints/Enemys/BP_EnemyBase.BP_EnemyBase as actor: BP_EnemyBase_C /Game/Levels/TestMapOscar.TestMapOscar:PersistentLevel.BP_EnemyBase_C_0
+[2023.01.04-10.21.02:179][214]LogActorFactory: Actor Factory spawned Blueprint /Game/Scripting/Blueprints/Enemys/BP_EnemyBase.BP_EnemyBase as actor: BP_EnemyBase_C /Game/Levels/TestMapOscar.TestMapOscar:PersistentLevel.BP_EnemyBase_C_0
+[2023.01.04-10.21.02:696][243]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Scripting/Blueprints/Enemys/BP_EnemyBase.BP_EnemyBase_C
+[2023.01.04-10.21.02:696][243]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Scripting/Blueprints/Enemys/BP_EnemyBase.BP_EnemyBase_C
+[2023.01.04-10.21.02:697][243]LogActorFactory: Actor Factory spawned Blueprint /Game/Scripting/Blueprints/Enemys/BP_EnemyBase.BP_EnemyBase as actor: BP_EnemyBase_C /Game/Levels/TestMapOscar.TestMapOscar:PersistentLevel.BP_EnemyBase_C_UAID_80FA5B808D89935901_1218494017
+[2023.01.04-10.21.02:698][243]LogActorFactory: Actor Factory spawned Blueprint /Game/Scripting/Blueprints/Enemys/BP_EnemyBase.BP_EnemyBase as actor: BP_EnemyBase_C /Game/Levels/TestMapOscar.TestMapOscar:PersistentLevel.BP_EnemyBase_C_UAID_80FA5B808D89935901_1218494017
+[2023.01.04-10.21.05:099][380]Cmd: SELECT NONE
+[2023.01.04-10.21.22:452][407]BlueprintLog: New page: Compile BP_Saucer_Projectile
+[2023.01.04-10.21.22:556][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.01.04-10.21.22:994][424]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile
+[2023.01.04-10.21.22:995][424]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_Saucer_Projectile2E1A07D5454DC690053DB8872C272FA4.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.uasset'
+[2023.01.04-10.21.23:006][424]AssetCheck: New page: Asset Save: BP_Saucer_Projectile
+[2023.01.04-10.21.23:006][424]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.BP_Saucer_Projectile
+[2023.01.04-10.21.24:445][500]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.04-10.21.24:454][500]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.04-10.21.24:454][500]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.04-10.21.24:454][500]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.04-10.21.24:454][500]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.01.04-10.21.24:454][500]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.01.04-10.21.24:454][500]LogWorldPartition: Display: GetPartitionedActors took 59 us
+[2023.01.04-10.21.24:455][500]LogWorldPartition: Display: GenerateStreaming took 378 us
+[2023.01.04-10.21.24:455][500]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-10.21.24:455][500]PIE: New page: PIE session: TestMapOscar (4 Jan 2023, 10:21:24)
+[2023.01.04-10.21.24:455][500]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMapOscar
+[2023.01.04-10.21.24:462][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006851s)
+[2023.01.04-10.21.24:462][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMapOscar.TestMapOscar to /Game/Levels/UEDPIE_0_TestMapOscar.TestMapOscar (0.006943s)
+[2023.01.04-10.21.24:462][500]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-10.21.24:463][500]LogAIModule: Creating AISystem for world TestMapOscar
+[2023.01.04-10.21.24:463][500]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.04-10.21.24:463][500]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.01.04-10.21.24:465][500]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.01.04-10.21.24:465][500]LogPlayLevel: PIE: World Init took: (0.003186s)
+[2023.01.04-10.21.24:532][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.01.04-10.21.24:534][500]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.01.04-10.21.24:534][500]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-10.21.24:534][500]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-10.21.24:534][500]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-10.21.24:534][500]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-10.21.24:534][500]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-10.21.24:534][500]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.04-10.21.24:534][500]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-10.21.24:534][500]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-10.21.24:535][500]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-10.21.24:535][500]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-10.21.24:535][500]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-10.21.24:537][500]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.04-10.21.24:560][500]LogAudioMixer: Display: Using Audio Hardware Device Speakers (GameDAC Game)
+[2023.01.04-10.21.24:560][500]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-10.21.24:560][500]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-10.21.24:560][500]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-10.21.24:561][500]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.01.04-10.21.24:561][500]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=11
+[2023.01.04-10.21.24:563][500]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.01.04-10.21.24:563][500]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.01.04-10.21.24:563][500]LogInit: FAudioDevice initialized.
+[2023.01.04-10.21.24:563][500]LogAudio: Display: Audio Device (ID: 11) registered with world 'TestMapOscar'.
+[2023.01.04-10.21.24:574][500]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.01.04-10.21.24:576][500]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMapOscar.TestMapOscar up for play (max tick rate 60) at 2023.01.04-10.21.24
+[2023.01.04-10.21.24:577][500]LogWorld: Bringing up level for play took: 0.002435
+[2023.01.04-10.21.24:578][500]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.01.04-10.21.24:580][500]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2023.01.04-10.21.24:580][500]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.04-10.21.24:580][500]PIE: Server logged in
+[2023.01.04-10.21.24:581][500]PIE: Play in editor total start time 0.129 seconds.
+[2023.01.04-10.22.22:481][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-10.22.22:481][870]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMapOscar
+[2023.01.04-10.22.22:481][870]LogWorld: UWorld::CleanupWorld for TestMapOscar, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-10.22.22:482][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-10.22.22:497][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-10.22.22:503][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-10.22.22:569][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-10.22.22:570][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.01.04-10.22.22:571][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.01.04-10.22.22:579][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.01.04-10.22.22:609][871]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.01.04-10.22.42:934][ 46]BlueprintLog: New page: Compile BP_Saucer_Projectile
+[2023.01.04-10.22.43:036][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.01.04-10.22.43:444][ 62]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile
+[2023.01.04-10.22.43:445][ 62]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_Saucer_Projectile52FCB09A4AC63CE03A3B11B7D8DC72CA.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.uasset'
+[2023.01.04-10.22.43:459][ 62]AssetCheck: New page: Asset Save: BP_Saucer_Projectile
+[2023.01.04-10.22.43:459][ 62]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.BP_Saucer_Projectile
+[2023.01.04-10.23.28:794][737]BlueprintLog: New page: Compile BP_EnemyBase
+[2023.01.04-10.23.28:888][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.01.04-10.23.29:317][758]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Enemys/BP_EnemyBase
+[2023.01.04-10.23.29:318][758]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_EnemyBase9C363187441868A6700CA3A9BB25D005.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Enemys/BP_EnemyBase.uasset'
+[2023.01.04-10.23.29:329][758]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2023.01.04-10.23.29:329][758]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Enemys/BP_EnemyBase.BP_EnemyBase
+[2023.01.04-10.23.34:854][ 54]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.04-10.23.36:593][ 54]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.01.04-10.23.36:599][ 54]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.01.04-10.23.36:603][ 54]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.01.04-10.23.36:613][ 55]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.01.04-10.23.54:052][534]LogContentBrowser: Attempting asset rename: NewBlueprint -> BPC
+[2023.01.04-10.23.54:059][534]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.01.04-10.26.19:876][421]BlueprintLog: New page: Compile BP_Saucer_Projectile
+[2023.01.04-10.26.19:970][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.01.04-10.26.20:408][438]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile
+[2023.01.04-10.26.20:409][438]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_Saucer_Projectile56DED6F8458C766178E934979699DDEC.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.uasset'
+[2023.01.04-10.26.20:422][438]AssetCheck: New page: Asset Save: BP_Saucer_Projectile
+[2023.01.04-10.26.20:422][438]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.BP_Saucer_Projectile
+[2023.01.04-10.26.48:648][ 89]BlueprintLog: New page: Compile BP_EnemyBase
+[2023.01.04-10.26.48:736][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.01.04-10.26.49:106][107]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Enemys/BP_EnemyBase
+[2023.01.04-10.26.49:107][107]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_EnemyBase1B095EE84E090C9B46229FA7C238F289.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Enemys/BP_EnemyBase.uasset'
+[2023.01.04-10.26.49:121][107]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2023.01.04-10.26.49:121][107]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Enemys/BP_EnemyBase.BP_EnemyBase
+[2023.01.04-10.26.50:532][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.01.04-10.26.50:595][188]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMapOscar/A/KG/3WSBR1ISOV80T4T656W73H
+[2023.01.04-10.26.50:596][188]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/3WSBR1ISOV80T4T656W73H45EA2F374EF53368234F9CA0EFA2B98E.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/__ExternalActors__/Levels/TestMapOscar/A/KG/3WSBR1ISOV80T4T656W73H.uasset'
+[2023.01.04-10.26.50:598][188]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMapOscar/9/70/WIA23X1Q34K971NSASYZ3J
+[2023.01.04-10.26.50:599][188]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/WIA23X1Q34K971NSASYZ3J7FFEAC40440910DD602D57B21AD1836B.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/__ExternalActors__/Levels/TestMapOscar/9/70/WIA23X1Q34K971NSASYZ3J.uasset'
+[2023.01.04-10.26.50:601][188]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMapOscar/A/ZP/MU0ZDG9AVU8IMA0FJB6P6R
+[2023.01.04-10.26.50:601][188]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/MU0ZDG9AVU8IMA0FJB6P6R304D6A5D4966F8E8EB6B37A93533E50D.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/__ExternalActors__/Levels/TestMapOscar/A/ZP/MU0ZDG9AVU8IMA0FJB6P6R.uasset'
+[2023.01.04-10.26.50:605][188]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Enemys/BPC
+[2023.01.04-10.26.50:605][188]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BPC726E8CE7477E310A4472ABB3A4CDB92D.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Enemys/BPC.uasset'
+[2023.01.04-10.26.50:621][188]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.04-10.26.50:621][188]LogContentValidation: Display: Validating BP_Saucer_Projectile_C /Game/Levels/TestMapOscar.TestMapOscar:PersistentLevel.BP_Saucer_Projectile_C_UAID_80FA5B808D89925901_2036737839
+[2023.01.04-10.26.50:621][188]LogContentValidation: Display: Validating BP_EnemyBase_C /Game/Levels/TestMapOscar.TestMapOscar:PersistentLevel.BP_EnemyBase_C_UAID_80FA5B808D89935901_1218494017
+[2023.01.04-10.26.50:621][188]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Enemys/BPC.BPC
+[2023.01.04-10.26.50:621][188]LogContentValidation: Display: Validating BP_FlyingSaucer_C /Game/Levels/TestMapOscar.TestMapOscar:PersistentLevel.BP_FlyingSaucer_C_UAID_80FA5B808D89935901_1142066016
+[2023.01.04-10.27.15:733][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.01.04-10.27.15:735][676]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMapOscar' took 0.060
+[2023.01.04-10.27.15:738][676]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/FirstPersonMap_2/8/SO/NA2GFPYTG0X37Y6DRJXBCN_Auto1
+[2023.01.04-10.27.15:738][676]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/NA2GFPYTG0X37Y6DRJXBCN_Auto1A1C732A64C801908FACA46852DB23980.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/Autosaves/Game/__ExternalActors__/Levels/FirstPersonMap_2/8/SO/NA2GFPYTG0X37Y6DRJXBCN_Auto1.uasset'
+[2023.01.04-10.27.15:738][676]LogFileHelpers: Auto-saving content packages took 0.004
+[2023.01.04-10.30.49:768][604]LogContentBrowser: Attempting asset rename: BPC -> AC_Capture
+[2023.01.04-10.30.49:787][604]LogMetaData: Removing '/Game/Scripting/Blueprints/Enemys/AC_Capture.SKEL_AC_Capture_C' ref from Metadata '/Game/Scripting/Blueprints/Enemys/BPC.PackageMetaData'
+[2023.01.04-10.30.49:788][604]LogMetaData: Removing '/Game/Scripting/Blueprints/Enemys/AC_Capture.AC_Capture_C' ref from Metadata '/Game/Scripting/Blueprints/Enemys/BPC.PackageMetaData'
+[2023.01.04-10.30.49:788][604]LogMetaData: Removing '/Game/Scripting/Blueprints/Enemys/AC_Capture.AC_Capture:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Scripting/Blueprints/Enemys/BPC.PackageMetaData'
+[2023.01.04-10.30.49:788][604]LogMetaData: Removing '/Game/Scripting/Blueprints/Enemys/AC_Capture.AC_Capture:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Scripting/Blueprints/Enemys/BPC.PackageMetaData'
+[2023.01.04-10.30.49:847][604]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Enemys/AC_Capture
+[2023.01.04-10.30.49:847][604]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/AC_Capture98FC19CA47AC3FD4C27B3EAEC1C1534F.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Enemys/AC_Capture.uasset'
+[2023.01.04-10.30.49:939][604]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.01.04-10.30.49:999][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.01.04-10.30.50:062][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.01.04-10.30.50:069][604]AssetCheck: New page: Asset Save: AC_Capture
+[2023.01.04-10.30.50:070][604]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Enemys/AC_Capture.AC_Capture
+[2023.01.04-10.30.52:050][720]BlueprintLog: New page: Compile BP_EnemyBase
+[2023.01.04-10.30.52:139][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.01.04-10.30.52:551][740]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Enemys/BP_EnemyBase
+[2023.01.04-10.30.52:552][740]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_EnemyBase10BC63AA40C8777ADBE88C854D2A57A4.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Enemys/BP_EnemyBase.uasset'
+[2023.01.04-10.30.52:565][740]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2023.01.04-10.30.52:565][740]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Enemys/BP_EnemyBase.BP_EnemyBase
+[2023.01.04-10.37.16:100][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.01.04-10.37.16:104][280]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/TestMapOscar/A/ZP/MU0ZDG9AVU8IMA0FJB6P6R_Auto2
+[2023.01.04-10.37.16:104][280]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/MU0ZDG9AVU8IMA0FJB6P6R_Auto215306CC24988DD2FEE5A19AB69DABCB2.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/Autosaves/Game/__ExternalActors__/Levels/TestMapOscar/A/ZP/MU0ZDG9AVU8IMA0FJB6P6R_Auto2.uasset'
+[2023.01.04-10.37.16:106][280]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/TestMapOscar/9/70/WIA23X1Q34K971NSASYZ3J_Auto2
+[2023.01.04-10.37.16:106][280]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/WIA23X1Q34K971NSASYZ3J_Auto2FE0F0CFB43FA85A8D3E58A941FC6B50D.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/Autosaves/Game/__ExternalActors__/Levels/TestMapOscar/9/70/WIA23X1Q34K971NSASYZ3J_Auto2.uasset'
+[2023.01.04-10.37.16:107][280]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMapOscar' took 0.068
+[2023.01.04-10.37.16:107][280]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.068
+[2023.01.04-10.42.29:215][547]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.04-10.42.33:240][783]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2023.01.04-10.42.33:245][783]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.04-10.43.55:533][ 89]BlueprintLog: New page: Compile BP_EnemyBase
+[2023.01.04-10.43.55:656][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2023.01.04-10.43.56:101][109]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Enemys/BP_EnemyBase
+[2023.01.04-10.43.56:101][109]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_EnemyBaseA2267858440435C1970040AA4B7F96C2.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Enemys/BP_EnemyBase.uasset'
+[2023.01.04-10.43.56:119][109]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2023.01.04-10.43.56:119][109]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Enemys/BP_EnemyBase.BP_EnemyBase
+[2023.01.04-10.43.59:496][310]BlueprintLog: New page: Compile BP_EnemyBase
+[2023.01.04-10.43.59:600][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.01.04-10.43.59:886][321]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Enemys/BP_EnemyBase
+[2023.01.04-10.43.59:886][321]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_EnemyBaseCF8B319C420E674816E179B032D6AF2B.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Enemys/BP_EnemyBase.uasset'
+[2023.01.04-10.43.59:904][321]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2023.01.04-10.43.59:904][321]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Enemys/BP_EnemyBase.BP_EnemyBase
+[2023.01.04-10.45.48:151][679]BlueprintLog: New page: Compile BP_EnemyBase
+[2023.01.04-10.45.48:249][679]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2023.01.04-10.45.49:557][752]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Enemys/BP_EnemyBase
+[2023.01.04-10.45.49:558][752]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_EnemyBase800E0C64421CA8416586028B8EAE51F9.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Enemys/BP_EnemyBase.uasset'
+[2023.01.04-10.45.49:571][752]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2023.01.04-10.45.49:571][752]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Enemys/BP_EnemyBase.BP_EnemyBase
+[2023.01.04-10.45.56:448][ 13]BlueprintLog: New page: Compile BP_EnemyBase
+[2023.01.04-10.45.56:548][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.01.04-10.45.56:906][ 29]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Enemys/BP_EnemyBase
+[2023.01.04-10.45.56:906][ 29]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_EnemyBaseE8AEE41644A47B85F8018A8E96D83510.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Enemys/BP_EnemyBase.uasset'
+[2023.01.04-10.45.56:923][ 29]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2023.01.04-10.45.56:923][ 29]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Enemys/BP_EnemyBase.BP_EnemyBase
+[2023.01.04-10.46.39:213][509]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2023.01.04-10.46.39:219][509]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2023.01.04-10.46.39:234][510]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2023.01.04-10.47.16:516][679]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1644)].
+[2023.01.04-10.47.16:516][679]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> E_
+[2023.01.04-10.47.16:517][679]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2023.01.04-10.47.16:634][679]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.01.04-10.47.16:637][679]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/TestMapOscar/A/ZP/MU0ZDG9AVU8IMA0FJB6P6R_Auto3
+[2023.01.04-10.47.16:637][679]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/MU0ZDG9AVU8IMA0FJB6P6R_Auto38F4489A947BE207C3438D2A2AEF4A531.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/Autosaves/Game/__ExternalActors__/Levels/TestMapOscar/A/ZP/MU0ZDG9AVU8IMA0FJB6P6R_Auto3.uasset'
+[2023.01.04-10.47.16:640][679]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/TestMapOscar/9/70/WIA23X1Q34K971NSASYZ3J_Auto3
+[2023.01.04-10.47.16:640][679]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/WIA23X1Q34K971NSASYZ3J_Auto3E388AEA741E9A7464CD9B1928263B408.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/Autosaves/Game/__ExternalActors__/Levels/TestMapOscar/9/70/WIA23X1Q34K971NSASYZ3J_Auto3.uasset'
+[2023.01.04-10.47.16:641][679]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMapOscar' took 0.083
+[2023.01.04-10.47.16:641][679]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.083
+[2023.01.04-10.47.23:502][ 80]LogContentBrowser: Attempting asset rename: E_ -> E_EnemyType
+[2023.01.04-10.47.23:528][ 80]LogMetaData: Removing '/Game/Scripting/Blueprints/Enemys/E_EnemyType.E_EnemyType' ref from Metadata '/Game/Scripting/Blueprints/Enemys/E_.PackageMetaData'
+[2023.01.04-10.47.23:601][ 80]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Enemys/E_EnemyType
+[2023.01.04-10.47.23:601][ 80]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/E_EnemyTypeDF7E3F7E459FFE72A6997587339337DB.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Enemys/E_EnemyType.uasset'
+[2023.01.04-10.47.23:708][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.01.04-10.47.23:781][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.01.04-10.47.23:852][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.01.04-10.47.23:859][ 80]AssetCheck: New page: Asset Save: E_EnemyType
+[2023.01.04-10.47.23:859][ 80]LogContentValidation: Display: Validating UserDefinedEnum /Game/Scripting/Blueprints/Enemys/E_EnemyType.E_EnemyType
+[2023.01.04-10.47.25:339][163]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMapOscar/A/ZP/MU0ZDG9AVU8IMA0FJB6P6R
+[2023.01.04-10.47.25:339][163]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/MU0ZDG9AVU8IMA0FJB6P6R22F26E6E4EFAC90EC680698596C181F9.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/__ExternalActors__/Levels/TestMapOscar/A/ZP/MU0ZDG9AVU8IMA0FJB6P6R.uasset'
+[2023.01.04-10.47.25:342][163]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMapOscar/9/70/WIA23X1Q34K971NSASYZ3J
+[2023.01.04-10.47.25:343][163]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/WIA23X1Q34K971NSASYZ3JBF606B014304F3CF384F86B7E7FD2D2D.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/__ExternalActors__/Levels/TestMapOscar/9/70/WIA23X1Q34K971NSASYZ3J.uasset'
+[2023.01.04-10.47.25:359][163]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.04-10.47.25:359][163]LogContentValidation: Display: Validating BP_Saucer_Projectile_C /Game/Levels/TestMapOscar.TestMapOscar:PersistentLevel.BP_Saucer_Projectile_C_UAID_80FA5B808D89925901_2036737839
+[2023.01.04-10.47.25:359][163]LogContentValidation: Display: Validating BP_EnemyBase_C /Game/Levels/TestMapOscar.TestMapOscar:PersistentLevel.BP_EnemyBase_C_UAID_80FA5B808D89935901_1218494017
+[2023.01.04-10.47.26:808][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.01.04-10.47.43:327][213]BlueprintLog: New page: Compile BP_EnemyBase
+[2023.01.04-10.47.43:414][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.01.04-10.47.43:712][226]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Enemys/BP_EnemyBase
+[2023.01.04-10.47.43:713][226]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_EnemyBase6AE43202467667EC235051B95DFB3AD4.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Enemys/BP_EnemyBase.uasset'
+[2023.01.04-10.47.43:726][226]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2023.01.04-10.47.43:726][226]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Enemys/BP_EnemyBase.BP_EnemyBase
+[2023.01.04-10.47.46:144][362]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Scripting/Blueprints/Enemys/E_EnemyType.E_EnemyType
+[2023.01.04-10.48.59:836][771]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Enemys/E_EnemyType
+[2023.01.04-10.48.59:837][771]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/E_EnemyType8A0B4BA44F0C3753A884CFB8DB2CEC9F.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Enemys/E_EnemyType.uasset'
+[2023.01.04-10.48.59:849][771]AssetCheck: New page: Asset Save: E_EnemyType
+[2023.01.04-10.48.59:849][771]LogContentValidation: Display: Validating UserDefinedEnum /Game/Scripting/Blueprints/Enemys/E_EnemyType.E_EnemyType
+[2023.01.04-10.49.17:970][855]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Enemys/E_EnemyType
+[2023.01.04-10.49.17:971][855]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/E_EnemyTypeC8FBE29B426F89CFFBD144A7F9BB9FC2.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Enemys/E_EnemyType.uasset'
+[2023.01.04-10.49.17:983][855]AssetCheck: New page: Asset Save: E_EnemyType
+[2023.01.04-10.49.17:983][855]LogContentValidation: Display: Validating UserDefinedEnum /Game/Scripting/Blueprints/Enemys/E_EnemyType.E_EnemyType
+[2023.01.04-10.49.19:134][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.01.04-10.49.19:194][921]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMapOscar/A/ZP/MU0ZDG9AVU8IMA0FJB6P6R
+[2023.01.04-10.49.19:194][921]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/MU0ZDG9AVU8IMA0FJB6P6R93EA35664236A3D6D69A75AAB764DE52.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/__ExternalActors__/Levels/TestMapOscar/A/ZP/MU0ZDG9AVU8IMA0FJB6P6R.uasset'
+[2023.01.04-10.49.19:197][921]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMapOscar/9/70/WIA23X1Q34K971NSASYZ3J
+[2023.01.04-10.49.19:198][921]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/WIA23X1Q34K971NSASYZ3J3AC11FA0472B8CF7B180728CBA074C9B.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/__ExternalActors__/Levels/TestMapOscar/9/70/WIA23X1Q34K971NSASYZ3J.uasset'
+[2023.01.04-10.49.19:215][921]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.04-10.49.19:215][921]LogContentValidation: Display: Validating BP_Saucer_Projectile_C /Game/Levels/TestMapOscar.TestMapOscar:PersistentLevel.BP_Saucer_Projectile_C_UAID_80FA5B808D89925901_2036737839
+[2023.01.04-10.49.19:216][921]LogContentValidation: Display: Validating BP_EnemyBase_C /Game/Levels/TestMapOscar.TestMapOscar:PersistentLevel.BP_EnemyBase_C_UAID_80FA5B808D89935901_1218494017
+[2023.01.04-10.49.34:190][819]LogClass: Warning: In asset 'None', there is an enum property of type 'E_EnemyType' with an invalid value of '('
+[2023.01.04-10.49.34:190][819]LogClass: Warning: In asset 'None', there is an enum property of type 'E_EnemyType' with an invalid value of '('
+[2023.01.04-10.49.35:322][887]BlueprintLog: New page: Compile BP_EnemyBase
+[2023.01.04-10.49.35:406][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.01.04-10.49.35:717][901]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Enemys/BP_EnemyBase
+[2023.01.04-10.49.35:718][901]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_EnemyBase98F0FC3D4DF8663C7BC65CBAA700A818.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Enemys/BP_EnemyBase.uasset'
+[2023.01.04-10.49.35:731][901]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2023.01.04-10.49.35:731][901]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Enemys/BP_EnemyBase.BP_EnemyBase
+[2023.01.04-10.57.16:983][336]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.01.04-10.57.16:987][336]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/TestMapOscar/A/ZP/MU0ZDG9AVU8IMA0FJB6P6R_Auto4
+[2023.01.04-10.57.16:987][336]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/MU0ZDG9AVU8IMA0FJB6P6R_Auto45E907AA441A197803ABFD7BB0658F32F.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/Autosaves/Game/__ExternalActors__/Levels/TestMapOscar/A/ZP/MU0ZDG9AVU8IMA0FJB6P6R_Auto4.uasset'
+[2023.01.04-10.57.16:990][336]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/TestMapOscar/9/70/WIA23X1Q34K971NSASYZ3J_Auto4
+[2023.01.04-10.57.16:990][336]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/WIA23X1Q34K971NSASYZ3J_Auto48C1E57EE432565D9BD9AF2AF82D46A38.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/Autosaves/Game/__ExternalActors__/Levels/TestMapOscar/9/70/WIA23X1Q34K971NSASYZ3J_Auto4.uasset'
+[2023.01.04-10.57.16:991][336]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMapOscar' took 0.084
+[2023.01.04-10.57.16:991][336]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.084
+[2023.01.04-11.01.32:083][324]BlueprintLog: New page: Compile BP_EnemyBase
+[2023.01.04-11.01.32:190][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.01.04-11.01.32:520][337]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Enemys/BP_EnemyBase
+[2023.01.04-11.01.32:522][337]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_EnemyBase9127052F4FA18DDCD224D7A87EA3D215.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Enemys/BP_EnemyBase.uasset'
+[2023.01.04-11.01.32:542][337]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2023.01.04-11.01.32:542][337]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Enemys/BP_EnemyBase.BP_EnemyBase
+[2023.01.04-11.03.37:051][795]BlueprintLog: New page: Compile BP_FlyingSaucer
+[2023.01.04-11.03.37:171][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.01.04-11.03.37:594][809]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Weapons/BP_FlyingSaucer
+[2023.01.04-11.03.37:595][809]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_FlyingSaucerD0F33E0E483205E44404A3AAAC526E7C.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Weapons/BP_FlyingSaucer.uasset'
+[2023.01.04-11.03.37:612][809]AssetCheck: New page: Asset Save: BP_FlyingSaucer
+[2023.01.04-11.03.37:612][809]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Weapons/BP_FlyingSaucer.BP_FlyingSaucer
+[2023.01.04-11.03.46:580][333]BlueprintLog: New page: Compile BP_Saucer_Projectile
+[2023.01.04-11.03.46:716][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.01.04-11.03.47:067][345]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile
+[2023.01.04-11.03.47:068][345]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_Saucer_Projectile9A2F6D1A487EF5CEBED327AFB4325225.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.uasset'
+[2023.01.04-11.03.47:084][345]AssetCheck: New page: Asset Save: BP_Saucer_Projectile
+[2023.01.04-11.03.47:084][345]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.BP_Saucer_Projectile
+[2023.01.04-11.04.01:716][219]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Scripting/Blueprints/Character/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.01.04-11.04.01:717][219]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-11.04.08:291][570]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.01.04-11.04.08:446][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.01.04-11.04.09:280][608]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Character/BP_FirstPersonCharacter
+[2023.01.04-11.04.09:281][608]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_FirstPersonCharacterFEACF6A44678C8CA343ADEB725939F55.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Character/BP_FirstPersonCharacter.uasset'
+[2023.01.04-11.04.09:300][608]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2023.01.04-11.04.09:300][608]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Character/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.01.04-11.04.54:333][245]LogMetaData: Removing '/Game/Scripting/Blueprints/Character/AC_Capture.AC_Capture_C' ref from Metadata '/Game/Scripting/Blueprints/Enemys/AC_Capture.PackageMetaData'
+[2023.01.04-11.04.54:333][245]LogMetaData: Removing '/Game/Scripting/Blueprints/Character/AC_Capture.SKEL_AC_Capture_C' ref from Metadata '/Game/Scripting/Blueprints/Enemys/AC_Capture.PackageMetaData'
+[2023.01.04-11.04.54:333][245]LogMetaData: Removing '/Game/Scripting/Blueprints/Character/AC_Capture.AC_Capture:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Scripting/Blueprints/Enemys/AC_Capture.PackageMetaData'
+[2023.01.04-11.04.54:333][245]LogMetaData: Removing '/Game/Scripting/Blueprints/Character/AC_Capture.AC_Capture:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Scripting/Blueprints/Enemys/AC_Capture.PackageMetaData'
+[2023.01.04-11.04.54:404][245]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Character/AC_Capture
+[2023.01.04-11.04.54:404][245]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/AC_CaptureFDECF3B0425F65F667A289B04F325A46.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Character/AC_Capture.uasset'
+[2023.01.04-11.04.54:528][245]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.01.04-11.04.54:612][245]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.01.04-11.04.54:698][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.01.04-11.04.54:735][245]AssetCheck: New page: Asset Save: AC_Capture
+[2023.01.04-11.04.54:735][245]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Character/AC_Capture.AC_Capture
+[2023.01.04-11.05.00:828][606]LogContentBrowser: Attempting asset rename: AC_Capture -> AC_Inventory
+[2023.01.04-11.05.00:855][606]LogMetaData: Removing '/Game/Scripting/Blueprints/Character/AC_Inventory.AC_Inventory_C' ref from Metadata '/Game/Scripting/Blueprints/Character/AC_Capture.PackageMetaData'
+[2023.01.04-11.05.00:855][606]LogMetaData: Removing '/Game/Scripting/Blueprints/Character/AC_Inventory.SKEL_AC_Inventory_C' ref from Metadata '/Game/Scripting/Blueprints/Character/AC_Capture.PackageMetaData'
+[2023.01.04-11.05.00:855][606]LogMetaData: Removing '/Game/Scripting/Blueprints/Character/AC_Inventory.AC_Inventory:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Scripting/Blueprints/Character/AC_Capture.PackageMetaData'
+[2023.01.04-11.05.00:855][606]LogMetaData: Removing '/Game/Scripting/Blueprints/Character/AC_Inventory.AC_Inventory:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Scripting/Blueprints/Character/AC_Capture.PackageMetaData'
+[2023.01.04-11.05.00:935][606]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Character/AC_Inventory
+[2023.01.04-11.05.00:935][606]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/AC_Inventory67506B244E327796193E42850F5C04E7.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Character/AC_Inventory.uasset'
+[2023.01.04-11.05.01:049][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.01.04-11.05.01:133][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.01.04-11.05.01:211][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.01.04-11.05.01:219][606]AssetCheck: New page: Asset Save: AC_Inventory
+[2023.01.04-11.05.01:219][606]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Character/AC_Inventory.AC_Inventory
+[2023.01.04-11.05.02:469][676]BlueprintLog: New page: Compile BP_Saucer_Projectile
+[2023.01.04-11.05.02:600][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.01.04-11.05.03:113][697]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile
+[2023.01.04-11.05.03:114][697]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_Saucer_Projectile3DB455BB4C026F21C864ADAB4CBA7769.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.uasset'
+[2023.01.04-11.05.03:131][697]AssetCheck: New page: Asset Save: BP_Saucer_Projectile
+[2023.01.04-11.05.03:131][697]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.BP_Saucer_Projectile
+[2023.01.04-11.05.24:708][990]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Scripting/Blueprints/Character/AC_Inventory.AC_Inventory
+[2023.01.04-11.05.24:708][990]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-11.05.34:000][518]BlueprintLog: New page: Compile AC_Inventory
+[2023.01.04-11.05.34:088][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.01.04-11.05.34:460][535]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Character/AC_Inventory
+[2023.01.04-11.05.34:461][535]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/AC_Inventory48ED0F464B22031B3B012092E582B289.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Character/AC_Inventory.uasset'
+[2023.01.04-11.05.34:478][535]AssetCheck: New page: Asset Save: AC_Inventory
+[2023.01.04-11.05.34:478][535]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Character/AC_Inventory.AC_Inventory
+[2023.01.04-11.06.37:391][291]BlueprintLog: New page: Compile AC_Inventory
+[2023.01.04-11.06.37:483][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.01.04-11.06.37:868][308]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Character/AC_Inventory
+[2023.01.04-11.06.37:869][308]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/AC_Inventory61B974A5498683867142C2B624A9D1F8.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Character/AC_Inventory.uasset'
+[2023.01.04-11.06.37:885][308]AssetCheck: New page: Asset Save: AC_Inventory
+[2023.01.04-11.06.37:885][308]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Character/AC_Inventory.AC_Inventory
+[2023.01.04-11.06.56:325][413]BlueprintLog: New page: Compile AC_Inventory
+[2023.01.04-11.06.56:416][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.01.04-11.06.56:728][426]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Character/AC_Inventory
+[2023.01.04-11.06.56:729][426]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/AC_Inventory4A8BED2845D55A6140CFC59EB61939D6.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Character/AC_Inventory.uasset'
+[2023.01.04-11.06.56:753][426]AssetCheck: New page: Asset Save: AC_Inventory
+[2023.01.04-11.06.56:753][426]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Character/AC_Inventory.AC_Inventory
+[2023.01.04-11.07.26:399][157]BlueprintLog: New page: Compile AC_Inventory
+[2023.01.04-11.07.26:497][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.01.04-11.07.26:878][174]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Character/AC_Inventory
+[2023.01.04-11.07.26:879][174]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/AC_Inventory98299DCD43AD477650B07BA650BB0FF2.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Character/AC_Inventory.uasset'
+[2023.01.04-11.07.26:898][174]AssetCheck: New page: Asset Save: AC_Inventory
+[2023.01.04-11.07.26:898][174]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Character/AC_Inventory.AC_Inventory
+[2023.01.04-11.07.34:844][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.01.04-11.07.34:848][621]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/TestMapOscar/A/KG/3WSBR1ISOV80T4T656W73H_Auto5
+[2023.01.04-11.07.34:848][621]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/3WSBR1ISOV80T4T656W73H_Auto5F88B41C1471D3CEA974B0E998EE9D055.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/Autosaves/Game/__ExternalActors__/Levels/TestMapOscar/A/KG/3WSBR1ISOV80T4T656W73H_Auto5.uasset'
+[2023.01.04-11.07.34:851][621]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/TestMapOscar/A/ZP/MU0ZDG9AVU8IMA0FJB6P6R_Auto5
+[2023.01.04-11.07.34:852][621]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/MU0ZDG9AVU8IMA0FJB6P6R_Auto5FB24205B4471290576D52E9033DB7909.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/Autosaves/Game/__ExternalActors__/Levels/TestMapOscar/A/ZP/MU0ZDG9AVU8IMA0FJB6P6R_Auto5.uasset'
+[2023.01.04-11.07.34:854][621]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/TestMapOscar/9/70/WIA23X1Q34K971NSASYZ3J_Auto5
+[2023.01.04-11.07.34:854][621]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/WIA23X1Q34K971NSASYZ3J_Auto5ABBBC6F343269E8D58C16A99932D1212.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/Autosaves/Game/__ExternalActors__/Levels/TestMapOscar/9/70/WIA23X1Q34K971NSASYZ3J_Auto5.uasset'
+[2023.01.04-11.07.34:855][621]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TestMapOscar' took 0.105
+[2023.01.04-11.07.34:855][621]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.105
+[2023.01.04-11.07.34:856][621]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Scripting/Blueprints/Character/AC_Inventory] ([2] browsable assets)...
+[2023.01.04-11.07.34:857][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/Scripting/Blueprints/Character/AC_Inventory]
+[2023.01.04-11.07.34:860][621]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Scripting/Blueprints/Character/AC_Inventory_Auto5
+[2023.01.04-11.07.34:860][621]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/AC_Inventory_Auto5D3AD72EB447003BEF569D78F67D2EC4B.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/Autosaves/Game/Scripting/Blueprints/Character/AC_Inventory_Auto5.uasset'
+[2023.01.04-11.07.34:861][621]LogFileHelpers: Auto-saving content packages took 0.006
+[2023.01.04-11.07.49:829][498]BlueprintLog: New page: Compile AC_Inventory
+[2023.01.04-11.07.49:930][498]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.01.04-11.07.50:317][514]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Character/AC_Inventory
+[2023.01.04-11.07.50:318][514]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/AC_Inventory97954F244CD64555BB2610BCBAD1C490.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Character/AC_Inventory.uasset'
+[2023.01.04-11.07.50:335][514]AssetCheck: New page: Asset Save: AC_Inventory
+[2023.01.04-11.07.50:335][514]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Character/AC_Inventory.AC_Inventory
+[2023.01.04-11.07.55:071][797]BlueprintLog: New page: Compile AC_Inventory
+[2023.01.04-11.07.55:173][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.01.04-11.07.55:564][814]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Character/AC_Inventory
+[2023.01.04-11.07.55:566][814]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/AC_Inventory260187BB46CFE66271350081353BB8F9.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Character/AC_Inventory.uasset'
+[2023.01.04-11.07.55:590][814]AssetCheck: New page: Asset Save: AC_Inventory
+[2023.01.04-11.07.55:590][814]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Character/AC_Inventory.AC_Inventory
+[2023.01.04-11.08.03:795][305]BlueprintLog: New page: Compile AC_Inventory
+[2023.01.04-11.08.03:906][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.01.04-11.08.04:115][312]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Character/AC_Inventory
+[2023.01.04-11.08.04:116][312]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/AC_InventoryFDCE0BE14B9EF798DF2E7BBC48A1AE4A.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Character/AC_Inventory.uasset'
+[2023.01.04-11.08.04:134][312]AssetCheck: New page: Asset Save: AC_Inventory
+[2023.01.04-11.08.04:134][312]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Character/AC_Inventory.AC_Inventory
+[2023.01.04-11.09.09:139][159]BlueprintLog: New page: Compile AC_Inventory
+[2023.01.04-11.09.09:249][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.01.04-11.09.09:569][172]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Character/AC_Inventory
+[2023.01.04-11.09.09:570][172]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/AC_Inventory53C62EF34EDD6B9856B4C6A2A8771E5F.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Character/AC_Inventory.uasset'
+[2023.01.04-11.09.09:591][172]AssetCheck: New page: Asset Save: AC_Inventory
+[2023.01.04-11.09.09:591][172]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Character/AC_Inventory.AC_Inventory
+[2023.01.04-11.09.15:200][509]BlueprintLog: New page: Compile AC_Inventory
+[2023.01.04-11.09.15:309][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.01.04-11.09.15:544][517]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Character/AC_Inventory
+[2023.01.04-11.09.15:545][517]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/AC_InventoryD51078F640B4B4B0F320D8A71F27AF2B.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Character/AC_Inventory.uasset'
+[2023.01.04-11.09.15:571][517]AssetCheck: New page: Asset Save: AC_Inventory
+[2023.01.04-11.09.15:571][517]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Character/AC_Inventory.AC_Inventory
+[2023.01.04-11.09.22:807][930]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMapOscar/A/KG/3WSBR1ISOV80T4T656W73H
+[2023.01.04-11.09.22:808][930]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/3WSBR1ISOV80T4T656W73HDB46CD4947D6744C08DA588D6494AC6D.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/__ExternalActors__/Levels/TestMapOscar/A/KG/3WSBR1ISOV80T4T656W73H.uasset'
+[2023.01.04-11.09.22:811][930]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMapOscar/A/ZP/MU0ZDG9AVU8IMA0FJB6P6R
+[2023.01.04-11.09.22:812][930]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/MU0ZDG9AVU8IMA0FJB6P6R3043315240CC73E22B1835A96B4BE7E4.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/__ExternalActors__/Levels/TestMapOscar/A/ZP/MU0ZDG9AVU8IMA0FJB6P6R.uasset'
+[2023.01.04-11.09.22:815][930]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/TestMapOscar/9/70/WIA23X1Q34K971NSASYZ3J
+[2023.01.04-11.09.22:816][930]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/WIA23X1Q34K971NSASYZ3J381601464BD6711858A2418DC8343E2B.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/__ExternalActors__/Levels/TestMapOscar/9/70/WIA23X1Q34K971NSASYZ3J.uasset'
+[2023.01.04-11.09.22:835][930]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.04-11.09.22:835][930]LogContentValidation: Display: Validating BP_FlyingSaucer_C /Game/Levels/TestMapOscar.TestMapOscar:PersistentLevel.BP_FlyingSaucer_C_UAID_80FA5B808D89935901_1142066016
+[2023.01.04-11.09.22:835][930]LogContentValidation: Display: Validating BP_Saucer_Projectile_C /Game/Levels/TestMapOscar.TestMapOscar:PersistentLevel.BP_Saucer_Projectile_C_UAID_80FA5B808D89925901_2036737839
+[2023.01.04-11.09.22:835][930]LogContentValidation: Display: Validating BP_EnemyBase_C /Game/Levels/TestMapOscar.TestMapOscar:PersistentLevel.BP_EnemyBase_C_UAID_80FA5B808D89935901_1218494017
+[2023.01.04-11.09.24:613][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2023.01.04-11.10.16:666][ 59]BlueprintLog: New page: Compile BP_Saucer_Projectile
+[2023.01.04-11.10.16:824][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.01.04-11.10.17:177][ 70]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile
+[2023.01.04-11.10.17:188][ 70]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_Saucer_Projectile6C1FA6CD4C54F9AEBD98A3B43FB7FD77.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.uasset'
+[2023.01.04-11.10.17:205][ 70]AssetCheck: New page: Asset Save: BP_Saucer_Projectile
+[2023.01.04-11.10.17:205][ 70]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.BP_Saucer_Projectile
+[2023.01.04-11.10.35:122][136]BlueprintLog: New page: Compile BP_Saucer_Projectile
+[2023.01.04-11.10.35:260][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.01.04-11.10.36:104][176]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile
+[2023.01.04-11.10.36:105][176]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_Saucer_Projectile83B8E750465B9CD9957940A4B7E6934E.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.uasset'
+[2023.01.04-11.10.36:123][176]AssetCheck: New page: Asset Save: BP_Saucer_Projectile
+[2023.01.04-11.10.36:123][176]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.BP_Saucer_Projectile
+[2023.01.04-11.10.42:680][548]BlueprintLog: New page: Compile BP_Saucer_Projectile
+[2023.01.04-11.10.42:686][548]LogClass: Warning: Type mismatch in FirstPersonCharacter of BP_Saucer_Projectile_C - Previous (BoolProperty) Current(ObjectProperty) for package:  FObjectReader
+[2023.01.04-11.10.42:808][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.01.04-11.10.43:138][557]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile
+[2023.01.04-11.10.43:139][557]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_Saucer_ProjectileCE794DEB432EDCA0B33DD4B07108D02C.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.uasset'
+[2023.01.04-11.10.43:152][557]AssetCheck: New page: Asset Save: BP_Saucer_Projectile
+[2023.01.04-11.10.43:153][557]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.BP_Saucer_Projectile
+[2023.01.04-11.10.53:953][205]BlueprintLog: New page: Compile BP_Saucer_Projectile
+[2023.01.04-11.10.54:078][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.01.04-11.10.54:376][211]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile
+[2023.01.04-11.10.54:376][211]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_Saucer_Projectile27ECDDAF48ADDAAAD8155585779912AF.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.uasset'
+[2023.01.04-11.10.54:392][211]AssetCheck: New page: Asset Save: BP_Saucer_Projectile
+[2023.01.04-11.10.54:392][211]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.BP_Saucer_Projectile
+[2023.01.04-11.11.07:286][925]BlueprintLog: New page: Compile BP_Saucer_Projectile
+[2023.01.04-11.11.07:440][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.01.04-11.11.07:753][931]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile
+[2023.01.04-11.11.07:755][931]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_Saucer_Projectile2F3155F14DB4330479087788EA08BC5F.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.uasset'
+[2023.01.04-11.11.07:783][931]AssetCheck: New page: Asset Save: BP_Saucer_Projectile
+[2023.01.04-11.11.07:783][931]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.BP_Saucer_Projectile
+[2023.01.04-11.11.21:257][625]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.04-11.11.34:514][377]BlueprintLog: New page: Compile BP_FlyingSaucer
+[2023.01.04-11.11.34:651][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.01.04-11.11.35:216][401]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Weapons/BP_FlyingSaucer
+[2023.01.04-11.11.35:217][401]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_FlyingSaucerA5867C44490C04334EB5CC80607A07CF.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Weapons/BP_FlyingSaucer.uasset'
+[2023.01.04-11.11.35:235][401]AssetCheck: New page: Asset Save: BP_FlyingSaucer
+[2023.01.04-11.11.35:235][401]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Weapons/BP_FlyingSaucer.BP_FlyingSaucer
+[2023.01.04-11.11.37:351][528]LogDerivedDataCache: C:/Users/oscar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.440 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.04-11.11.37:836][552]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.04-11.11.45:150][983]BlueprintLog: New page: Compile BP_FlyingSaucer
+[2023.01.04-11.11.45:297][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.01.04-11.11.45:898][  8]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Weapons/BP_FlyingSaucer
+[2023.01.04-11.11.45:899][  8]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_FlyingSaucerD6B62E744A6CD55F35CC1C80DD6149D1.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Weapons/BP_FlyingSaucer.uasset'
+[2023.01.04-11.11.45:916][  8]AssetCheck: New page: Asset Save: BP_FlyingSaucer
+[2023.01.04-11.11.45:916][  8]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Weapons/BP_FlyingSaucer.BP_FlyingSaucer
+[2023.01.04-11.11.56:117][600]BlueprintLog: New page: Compile BP_FlyingSaucer
+[2023.01.04-11.11.56:261][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.01.04-11.11.56:524][604]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Weapons/BP_FlyingSaucer
+[2023.01.04-11.11.56:525][604]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_FlyingSaucer42643F3F4BDE7F5B5EA0269821A00380.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Weapons/BP_FlyingSaucer.uasset'
+[2023.01.04-11.11.56:544][604]AssetCheck: New page: Asset Save: BP_FlyingSaucer
+[2023.01.04-11.11.56:544][604]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Weapons/BP_FlyingSaucer.BP_FlyingSaucer
+[2023.01.04-11.12.26:635][357]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.04-11.12.43:772][357]BlueprintLog: New page: Compile BP_Saucer_Projectile
+[2023.01.04-11.12.43:929][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.01.04-11.12.44:314][369]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile
+[2023.01.04-11.12.44:315][369]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_Saucer_ProjectileBDF01356425ED614EF4EA397FD97C742.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.uasset'
+[2023.01.04-11.12.44:332][369]AssetCheck: New page: Asset Save: BP_Saucer_Projectile
+[2023.01.04-11.12.44:332][369]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.BP_Saucer_Projectile
+[2023.01.04-11.12.47:177][538]BlueprintLog: New page: Compile BP_Saucer_Projectile
+[2023.01.04-11.12.47:313][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.01.04-11.12.47:657][549]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile
+[2023.01.04-11.12.47:658][549]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_Saucer_Projectile8A0D356A4FBC6879F55B8084710EFD04.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.uasset'
+[2023.01.04-11.12.47:676][549]AssetCheck: New page: Asset Save: BP_Saucer_Projectile
+[2023.01.04-11.12.47:676][549]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.BP_Saucer_Projectile
+[2023.01.04-11.12.52:655][846]BlueprintLog: New page: Compile BP_Saucer_Projectile
+[2023.01.04-11.12.52:789][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.01.04-11.12.53:096][854]LogSavePackage: Moving output files for package: /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile
+[2023.01.04-11.12.53:097][854]LogSavePackage: Moving '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Saved/BP_Saucer_ProjectileF125C3B44FB81F5D672E948C211D205D.tmp' to '../../../../../../Users/oscar/Documents/GitHub/StaffsColab23/PrepareToDine23/Content/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.uasset'
+[2023.01.04-11.12.53:114][854]AssetCheck: New page: Asset Save: BP_Saucer_Projectile
+[2023.01.04-11.12.53:114][854]LogContentValidation: Display: Validating Blueprint /Game/Scripting/Blueprints/Weapons/BP_Saucer_Projectile.BP_Saucer_Projectile
