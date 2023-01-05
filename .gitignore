@@ -84,3 +84,4 @@ PrepareToDine23/Saved/Logs/PrepareToDine23.log
 *.log
 PrepareToDine23/Intermediate/CachedAssetRegistry.bin
 PrepareToDine23/Saved/Autosaves/PackageRestoreData.json
+*.log
