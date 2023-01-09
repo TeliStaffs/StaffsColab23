@@ -118,3 +118,13 @@ PrepareToDine23/Saved/Config/CrashReportClient/UECC-Windows-E56D19F24BA7322BA01A
 PrepareToDine23/Saved/Config/CrashReportClient/UECC-Windows-EB01F7574C94F2BEC5C6948553745702/CrashReportClient.ini
 PrepareToDine23/Saved/Config/CrashReportClient/UECC-Windows-EFC4E11B4479D8BBC757C497F65DB118/CrashReportClient.ini
 PrepareToDine23/Saved/Config/CrashReportClient/UECC-Windows-F65C714C4ADB6598E714C3ABEB5308D3/CrashReportClient.ini
+PrepareToDine23/Intermediate/CachedAssetRegistry.bin
+PrepareToDine23/Saved/Autosaves/PackageRestoreData.json
+PrepareToDine23/Saved/AutoScreenshot.png
+PrepareToDine23/Saved/Config/CrashReportClient/UECC-Windows-260D76294E62282B2C2C7E8AEE32502B/CrashReportClient.ini
+PrepareToDine23/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+PrepareToDine23/Saved/Config/WindowsEditor/Engine.ini
+PrepareToDine23/Saved/Logs/PrepareToDine23.log
+*.bin
+*.log
+*.ini
